@@ -1,12 +1,12 @@
-** JSHint API project
+## JSHint API project
 
 -This is my first program using API's
 
-*** Credit
+### Credit
 
 - The entire program is based and ran through Code Institue
 
-** Deployment
+### Deployment
 
 - Deployed through the main branch and hosted my github and assoiciated hosting platforms in github.
 
