@@ -10,4 +10,4 @@
 
 - Deployed through the main branch and hosted my github and assoiciated hosting platforms in github.
 
-- The url: http://scott.jshint.com/
+- The url: https://scottquinn144.github.io/jshint-API/
